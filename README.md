@@ -3,9 +3,9 @@ a repository about me
 
 # Hi! Josh Here👋
 
- [![Website Badge](https://img.shields.io/badge/-probhavesh-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://probhavesh.vercel.app/)](https://linktr.ee/ikustudies)
+ [![Website Badge](https://img.shields.io/badge/-IkuStudies-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://probhavesh.vercel.app/)](https://linktr.ee/ikustudies)
 
-[![Twitter Badge](https://img.shields.io/badge/-@desiDevX3-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ikustudies)](https://twitter.com/ikustudies)  [![Gmail Badge](https://img.shields.io/badge/-probhavsh-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:probhavsh@gmail.com)](mailto:ikustudies@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@IkuStudies-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ikustudies)](https://twitter.com/ikustudies)  [![Gmail Badge](https://img.shields.io/badge/-IkuStudies-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:probhavsh@gmail.com)](mailto:ikustudies@gmail.com)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/probhavesh/count.svg)
